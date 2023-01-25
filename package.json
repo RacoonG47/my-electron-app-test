@@ -1,15 +1,13 @@
 {
   "name": "my-electron-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "ng": "ng",
-    //"start": "electron-forge start",
     "start": "electron .",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "electron": "electron .",
-    //"package": "electron-forge package",
     "package": "electron-builder",
     "make": "electron-forge make"
   },
