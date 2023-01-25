@@ -1,0 +1,9 @@
+node_modules
+dist
+*.exe
+/out/
+/out/make/squirrel.windows/x64/my_electron_app-1.0.0-full.nupkg
+$ node_modules
+$ dist
+$ *.exe
+$ out/
